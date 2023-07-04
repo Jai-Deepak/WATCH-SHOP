@@ -1,6 +1,5 @@
 # Responsive Watches Website ⌚
-## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
-### Responsive Watches Website ⌚
+## Responsive Watches Website ⌚
 
 - Responsive Watches Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
